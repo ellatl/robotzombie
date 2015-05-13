@@ -2,7 +2,7 @@
 title: collab for rbx
 email: cforster@dalton.org
 description: > # this means to ignore newlines until "baseurl:"
-  course module hosted by github_
+  course module hosted by github
 baseurl: "/robotzombie/" # the subpath of your site, e.g. /blog/
 url: "http://daltonschool.github.io" # the base hostname & protocol for your site
 github_username:  cforster
