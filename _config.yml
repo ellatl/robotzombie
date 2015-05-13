@@ -1,0 +1,19 @@
+# Site settings
+title: CS3A
+email: cforster@dalton.org
+description: > # this means to ignore newlines until "baseurl:"
+  CS3A course content hosted by github_
+baseurl: "/CS3A" # the subpath of your site, e.g. /blog/
+url: "http://daltonschool.github.io" # the base hostname & protocol for your site
+github_username:  cforster
+
+# Build settings
+markdown: kramdown
+kramdown: 
+  input: GFM
+highlighter: pygments
+#require 'rbconfig'
+#gem 'wdm', '~> 0.1.0' if RbConfig::CONFIG['target_os'] =~ /mswin|mingw/i
+encoding: utf-8
+gems:
+  - jemoji

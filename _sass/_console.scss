@@ -1,0 +1,58 @@
+//colors
+$black: black;
+$gray: gray;
+$color_storm_dust_approx: #666;
+$color_japanese_laurel_approx: green;
+$red: red;
+
+//fonts
+$font_0: Courier;
+
+#console {
+	background-color: $black;
+	font-size: 16px;
+	font-family: $font_0;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+      	height: 300px;
+}
+.parents {
+	font-weight: bold;
+}
+.jqconsole {
+	padding: 10px;
+	
+}
+.jqconsole-cursor {
+	background-color: $gray;
+}
+.jqconsole-prompt {
+	color: Black;
+}
+.jqconsole-old-prompt {
+	color: Black;
+	font-weight: normal;
+}
+.jqconsole-input {
+	color: Black;
+}
+.jqconsole-old-input {
+	color: Black;
+	font-weight: normal;
+}
+.jqconsole-output {
+	color: $color_japanese_laurel_approx;
+}
+.jqconsole-return {
+	color: $gray;
+}
+.jqconsole-header {
+	color: $gray;
+}
+.jqconsole-error {
+	color: $red;
+}
+.jqconsole-blurred .jqconsole-cursor {
+	background-color: $color_storm_dust_approx;
+}
