@@ -2,7 +2,7 @@
 
 Zombies take over the dalton school. The robotics team, trapped in their lab, develops robots to try to survive.
 
-The network has ordered the first 4 episodes:
+The network has ordered the **first 4 episodes**:
 
 1.  "The Day After" -- Ella, Eliana, Meet, Aryav, Julian, Ava, robert, dylan
 2.  "Cafeteria Drama" -- Makoto, Wesley, mattori, devin, Georgia, jacob, laeo 
